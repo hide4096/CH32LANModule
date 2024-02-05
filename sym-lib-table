@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CH32V30x")(type "KiCad")(uri "${KIPRJMOD}/Symbols/CH32V30x.kicad_sym")(options "")(descr ""))
+  (lib (name "HR911105A")(type "KiCad")(uri "${KIPRJMOD}/Symbols/HR911105A.kicad_sym")(options "")(descr ""))
+)
